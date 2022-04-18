@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##### My name is Dehui Ji(季德会).
-I wonder if there is any chance for your to come to my website at my homepage on this http:www.jidehui.com .
+I wonder if there is any chance for your to come to my website at my homepage on this http://www.jidehui.com .
 
 
 <!--
